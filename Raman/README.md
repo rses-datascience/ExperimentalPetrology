@@ -8,4 +8,6 @@ Three Python and Julia libraries are currently used to perform the treatment: Ra
 
 We advise using the Container stacks provided at https://github.com/rses-datascience/Containers to run the examples.
 
+* Note that the Container stack needs to be updated. For Python example, use Google Colab; For Julia, use JuliaBox.
+
 The folder rameau contains example of using the rameau() function of the Spectra.jl to treat Raman spectra and get water content estimates from them.
